@@ -1,0 +1,19 @@
+Ejercicio,Situacion_n,DistanciaInicioRiiesgo,DCPA_yds,Situacion,VelNudos,VelNudosContacto,Responsables,Contacto,AccionContacto,TCPA,Situacion_evaluacion,Responsable_evaluacion
+124,1,9090.07,330.27,Cruce_er_er,11.2,29.5,Niguno,Motor,N/C,6.681360372296745,Cruce_er_er,Niguno
+124,2,1655.01,1653.23,Cruce_br_br,19.54,1.11,Niguno,Velero,N/C,0.1104833140553245,Cruce_br_br,Niguno
+124,3,1612.24,394.85,Cruce_er_er,11.15,24.17,Niguno,Motor,N/C,1.340744363821769,Cruce_er_er,Niguno
+124,4,8513.49,1604.26,Alcanzado,10.87,12.98,Contacto,Motor,Si,111.29959804531082,Alcanzado,Contacto
+124,5,6164.17,1120.53,Alcanzando,16.34,3.42,Barco,Velero,N/C,13.892384465986542,Alcanzando,Barco
+124,6,1916.54,1583.68,Alcanzado,1.0,6.29,Contacto,Velero,No,6.041053843479059,Alcanzado si no accion cto,Contacto que no toma accion
+124,7,1078.9,968.59,Cruce_br,17.4,22.97,Contacto,Motor,No,0.4852939369485841,Cruce_br si no accion cto,Contacto que no toma accion
+124,8,2450.38,400.14,Cruce_br_br,14.47,6.81,Niguno,Velero,N/C,3.370451238294648,Cruce_br_br,Niguno
+124,9,2261.68,1161.29,Cruce_er,14.54,9.94,Barco,Pesquero,N/C,3.10024679888087,Cruce_er,Barco
+124,10,5048.94,1821.68,Vuelta_encontrada,16.77,5.21,Ambos,Velero,N/C,6.346343436688036,Vuelta_encontrada,Ambos
+124,11,1483.6,1441.12,Cruce_br_br,18.96,5.9,Niguno,Pesquero,N/C,0.425222157847664,Cruce_br_br,Niguno
+124,12,551.66,428.25,Alcanzando,18.69,8.08,Barco,Velero,N/C,0.9688455052623078,Alcanzando,Barco
+124,13,5797.86,1003.64,Vuelta_encontrada,17.23,5.65,Ambos,Pesquero,N/C,7.399387402991381,Vuelta_encontrada,Ambos
+124,14,1889.24,422.25,Alcanzando,12.31,8.58,Barco,Motor,N/C,14.649627089317985,Alcanzando,Barco
+124,15,3033.5,1412.61,Cruce_br_br,12.37,17.74,Niguno,Motor,N/C,2.676703659005812,Cruce_br_br,Niguno
+124,16,1476.19,1433.01,Alcanzando,20.48,8.4,Barco,Velero,N/C,0.8668374725582209,Alcanzando,Barco
+124,17,1865.81,1165.19,Cruce_er_er,13.4,0.52,Niguno,Velero,N/C,3.1168524428813296,Cruce_er_er,Niguno
+124,18,5468.5,1311.76,Cruce_er,14.19,1.96,Barco,Pesquero,N/C,10.902186840608676,Cruce_er,Barco

@@ -1,0 +1,7 @@
+Ejercicio,Situacion_n,DistanciaInicioRiiesgo,DCPA_yds,Situacion,VelNudos,VelNudosContacto,Responsables,Contacto,AccionContacto,TCPA,Situacion_evaluacion,Responsable_evaluacion
+126,1,8376.08,269.57,Alcanzado,17.44,25.07,Contacto,Motor,Si,32.424714943530624,Alcanzado,Contacto
+126,2,858.24,534.1,Cruce_br_br,19.11,5.38,Niguno,Motor,N/C,0.8180357353154826,Cruce_br_br,Niguno
+126,3,3497.26,1508.54,Alcanzado,19.79,21.1,Contacto,Motor,Si,70.69902225126397,Alcanzado,Contacto
+126,4,2037.71,1796.15,Alcanzando,24.59,9.81,Barco,Pesquero,N/C,1.9298932500949413,Alcanzando,Barco
+126,5,385.16,105.99,Cruce_er_er,10.95,12.84,Niguno,Pesquero,N/C,0.4632030036818573,Cruce_er_er,Niguno
+126,6,752.98,6.89,Alcanzado,1.0,1.6,Contacto,Velero,No,36.83960531590935,Alcanzado si no accion cto,Contacto que no toma accion

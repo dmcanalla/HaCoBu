@@ -1,0 +1,21 @@
+Ejercicio,Situacion_n,DistanciaInicioRiiesgo,DCPA_yds,Situacion,VelNudos,VelNudosContacto,Responsables,Contacto,AccionContacto,TCPA,Situacion_evaluacion,Responsable_evaluacion
+131,1,1259.61,1254.39,Vuelta_encontrada,13.98,0.58,Ambos,Velero,N/C,0.233069980853508,Vuelta_encontrada,Ambos
+131,2,7408.03,1128.35,Vuelta_encontrada,12.78,3.06,Ambos,Pesquero,N/C,13.694385166738916,Vuelta_encontrada,Ambos
+131,3,9357.13,1606.07,Cruce_br,16.47,6.35,Contacto,Motor,No,15.188075590927724,Cruce_br si no accion cto,Contacto que no toma accion
+131,4,9150.66,1124.28,Vuelta_encontrada,13.55,2.99,Ambos,Motor,N/C,16.27112939218344,Vuelta_encontrada,Ambos
+131,5,2606.26,891.29,Vuelta_encontrada,15.62,9.32,Ambos,Pesquero,N/C,2.910633158771402,Vuelta_encontrada,Ambos
+131,6,1051.18,1041.04,Vuelta_encontrada,13.84,25.65,Ambos,Motor,N/C,0.1092750189735567,Vuelta_encontrada,Ambos
+131,7,5653.67,1954.71,Alcanzando,3.9,1.32,Barco,Velero,N/C,60.943787608998015,Alcanzando,Barco
+131,8,2480.52,847.78,Cruce_br_br,14.97,4.86,Niguno,Velero,N/C,3.504093302936539,Cruce_br_br,Niguno
+131,9,1838.22,1644.19,Cruce_er_er,14.8,2.58,Niguno,Pesquero,N/C,1.4236078843330662,Cruce_er_er,Niguno
+131,10,7769.24,148.27,Vuelta_encontrada,11.48,7.11,Ambos,Velero,N/C,12.382839919375678,Vuelta_encontrada,Ambos
+131,11,4018.78,1598.66,Cruce_br,12.31,5.64,Contacto,Velero,Si,7.876223122095674,Cruce_br,Contacto
+131,12,962.21,605.63,Vuelta_encontrada,10.05,1.32,Ambos,Velero,N/C,1.9493910476423,Vuelta_encontrada,Ambos
+131,13,728.84,538.76,Cruce_br_br,13.38,9.83,Niguno,Velero,N/C,0.6410186134169538,Cruce_br_br,Niguno
+131,14,680.18,342.13,Cruce_br,12.21,0.65,Contacto,Velero,No,1.4074284394804168,Cruce_br si no accion cto,Contacto que no toma accion
+131,15,670.42,34.96,Cruce_er,18.42,6.73,Barco,Motor,N/C,1.0036813420220685,Cruce_er,Barco
+131,16,1054.31,747.62,Cruce_er_er,18.51,3.43,Niguno,Velero,N/C,1.0166043149912076,Cruce_er_er,Niguno
+131,17,1549.27,1360.87,Cruce_br_br,12.12,7.0,Niguno,Velero,N/C,1.1563401154334574,Cruce_br_br,Niguno
+131,18,5775.3,1678.92,Vuelta_encontrada,15.97,25.71,Ambos,Motor,N/C,3.929228535207601,Vuelta_encontrada,Ambos
+131,19,3914.92,810.68,Cruce_er,17.67,27.33,Barco,Motor,N/C,3.1681218756863947,Cruce_er,Barco
+131,20,3064.05,290.27,Vuelta_encontrada,11.33,12.27,Ambos,Pesquero,N/C,3.829372687529237,Vuelta_encontrada,Ambos

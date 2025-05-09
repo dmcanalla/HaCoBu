@@ -1,0 +1,20 @@
+Ejercicio,Situacion_n,DistanciaInicioRiiesgo,DCPA_yds,Situacion,VelNudos,VelNudosContacto,Responsables,Contacto,AccionContacto,TCPA,Situacion_evaluacion,Responsable_evaluacion
+127,1,1830.93,741.61,Cruce_br,14.55,5.17,Contacto,Motor,No,3.076173345660008,Cruce_br si no accion cto,Contacto que no toma accion
+127,2,4862.53,163.8,Cruce_br,16.09,31.63,Contacto,Motor,No,3.802262639210262,Cruce_br si no accion cto,Contacto que no toma accion
+127,3,709.26,514.36,Cruce_er,19.91,2.21,Barco,Motor,N/C,0.6987285824024662,Cruce_er,Barco
+127,4,9500.26,1507.16,Cruce_br,14.99,1.85,Contacto,Motor,Si,18.915961798043945,Cruce_br,Contacto
+127,5,2696.07,1604.31,Alcanzando,17.16,13.61,Barco,Motor,N/C,17.755503129830736,Alcanzando,Barco
+127,6,1975.95,1184.22,Alcanzando,12.14,4.4,Barco,Motor,N/C,6.050367162600559,Alcanzando,Barco
+127,7,444.66,424.9,Alcanzando,14.27,11.73,Barco,Pesquero,N/C,1.4957845425165135,Alcanzando,Barco
+127,8,6235.32,862.55,Cruce_br_br,14.17,2.94,Niguno,Pesquero,N/C,10.856932626674125,Cruce_br_br,Niguno
+127,9,2219.33,1409.66,Cruce_br,16.35,10.23,Contacto,Pesquero,Si,3.128805241001649,Cruce_br,Contacto
+127,10,2400.01,230.35,Alcanzando,22.21,12.41,Barco,Pesquero,N/C,7.210891131269752,Alcanzando,Barco
+127,11,9808.07,1487.28,Cruce_er,12.32,18.28,Barco,Motor,N/C,14.244141697790845,Cruce_er,Barco
+127,12,1089.05,451.33,Alcanzado,6.49,10.04,Contacto,Pesquero,No,8.219293052253315,Alcanzado si no accion cto,Contacto que no toma accion
+127,13,1884.62,932.82,Cruce_er_er,18.32,1.17,Niguno,Velero,N/C,2.4967062953948145,Cruce_er_er,Niguno
+127,14,4239.94,976.52,Alcanzando,10.08,1.36,Barco,Motor,N/C,14.022648559136067,Alcanzando,Barco
+127,15,1521.39,1357.74,Cruce_er,11.85,11.24,Barco,Pesquero,N/C,1.3717208414284705,Cruce_er,Barco
+127,16,544.18,544.18,Alcanzado,1.0,7.02,Contacto,Velero,No,0.0018381954245431,Alcanzado si no accion cto,Contacto que no toma accion
+127,17,2327.81,1209.26,Cruce_br_br,15.72,33.05,Niguno,Motor,N/C,1.2448047494871723,Cruce_br_br,Niguno
+127,18,825.01,696.15,Cruce_br,14.57,10.82,Contacto,Pesquero,Si,0.6381053311316123,Cruce_br,Contacto
+127,19,7982.13,37.51,Cruce_br,14.38,19.03,Contacto,Motor,No,11.173467622444432,Cruce_br si no accion cto,Contacto que no toma accion

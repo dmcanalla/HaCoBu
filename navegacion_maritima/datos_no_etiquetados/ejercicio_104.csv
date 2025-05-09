@@ -1,0 +1,19 @@
+Ejercicio,Situacion_n,DistanciaInicioRiiesgo,DCPA_yds,Situacion,VelNudos,VelNudosContacto,Responsables,Contacto,AccionContacto,TCPA,Situacion_evaluacion,Responsable_evaluacion
+104,1,679.15,666.03,Cruce_er_er,18.04,4.84,Niguno,Velero,N/C,0.1723883640235695,Cruce_er_er,Niguno
+104,2,1527.4,1403.86,Vuelta_encontrada,17.67,9.76,Ambos,Pesquero,N/C,0.6502209484570113,Vuelta_encontrada,Ambos
+104,3,1662.14,1614.42,Vuelta_encontrada,14.04,4.04,Ambos,Velero,N/C,0.6477439811954105,Vuelta_encontrada,Ambos
+104,4,1824.78,1788.94,Cruce_br,13.98,5.41,Contacto,Pesquero,No,0.6635528591392001,Cruce_br si no accion cto,Contacto que no toma accion
+104,5,8276.85,1171.96,Cruce_er,10.19,12.8,Barco,Pesquero,N/C,17.21078546793908,Cruce_er,Barco
+104,6,1131.03,538.41,Alcanzando,13.6,4.19,Barco,Motor,N/C,3.1296772855070945,Alcanzando,Barco
+104,7,2118.91,1866.36,Alcanzado,17.92,21.92,Contacto,Motor,Si,7.3901638240705,Alcanzado,Contacto
+104,8,697.7,557.34,Cruce_br,15.24,24.42,Contacto,Motor,No,0.4336648835882933,Cruce_br si no accion cto,Contacto que no toma accion
+104,9,2663.43,1624.57,Cruce_er_er,12.02,7.44,Niguno,Pesquero,N/C,3.3077273306102257,Cruce_er_er,Niguno
+104,10,5532.91,219.75,Cruce_er_er,12.38,5.03,Niguno,Pesquero,N/C,9.665536966443932,Cruce_er_er,Niguno
+104,11,8280.71,1999.08,Cruce_br_br,18.24,4.66,Niguno,Velero,N/C,10.608359407864716,Cruce_br_br,Niguno
+104,12,985.72,122.7,Cruce_br_br,10.9,9.72,Niguno,Velero,N/C,1.4228660704129792,Cruce_br_br,Niguno
+104,13,1253.83,628.23,Cruce_br_br,19.36,5.79,Niguno,Pesquero,N/C,1.2908467479434529,Cruce_br_br,Niguno
+104,14,4917.84,826.05,Cruce_br,11.18,0.13,Contacto,Velero,Si,12.808998143572284,Cruce_br,Contacto
+104,15,7744.5,965.14,Cruce_er,17.45,7.08,Barco,Pesquero,N/C,12.337508221037542,Cruce_er,Barco
+104,16,2164.96,748.53,Vuelta_encontrada,10.05,8.34,Ambos,Velero,N/C,3.276314810582542,Vuelta_encontrada,Ambos
+104,17,516.5,327.37,Cruce_er,19.03,7.47,Barco,Pesquero,N/C,0.5506659615602061,Cruce_er,Barco
+104,18,8514.23,1259.3,Cruce_br,13.59,5.71,Contacto,Pesquero,No,18.774333015850253,Cruce_br si no accion cto,Contacto que no toma accion

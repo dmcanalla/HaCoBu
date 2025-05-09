@@ -1,0 +1,21 @@
+Ejercicio,Situacion_n,DistanciaInicioRiiesgo,DCPA_yds,Situacion,VelNudos,VelNudosContacto,Responsables,Contacto,AccionContacto,TCPA,Situacion_evaluacion,Responsable_evaluacion
+133,1,1640.22,1480.56,Vuelta_encontrada,12.39,0.01,Ambos,Pesquero,N/C,1.6873525749764515,Vuelta_encontrada,Ambos
+133,2,506.2,232.25,Cruce_br_br,18.33,9.32,Niguno,Motor,N/C,0.483367121131099,Cruce_br_br,Niguno
+133,3,1109.57,1087.09,Cruce_er,15.33,5.07,Barco,Velero,N/C,0.4148700625760458,Cruce_er,Barco
+133,4,2364.78,569.33,Cruce_br_br,11.71,25.16,Niguno,Motor,N/C,1.8722791111284367,Cruce_br_br,Niguno
+133,5,3080.26,1465.93,Alcanzado,15.18,21.64,Contacto,Motor,No,12.298149531567622,Alcanzado si no accion cto,Contacto que no toma accion
+133,6,797.38,658.94,Alcanzando,11.77,8.71,Barco,Motor,N/C,4.304924486506901,Alcanzando,Barco
+133,7,206.96,19.63,Cruce_er,12.93,8.12,Barco,Velero,N/C,0.3787210401179566,Cruce_er,Barco
+133,8,252.98,54.48,Cruce_er,16.28,8.82,Barco,Velero,N/C,0.4642225917267794,Cruce_er,Barco
+133,9,3438.79,1047.71,Cruce_er,11.24,1.72,Barco,Motor,N/C,8.85700943059864,Cruce_er,Barco
+133,10,1526.79,555.38,Cruce_er_er,15.12,10.61,Niguno,Pesquero,N/C,1.6439630759201238,Cruce_er_er,Niguno
+133,11,3044.38,282.62,Cruce_er_er,13.79,9.47,Niguno,Velero,N/C,3.898286592361116,Cruce_er_er,Niguno
+133,12,2793.65,1290.87,Alcanzando,17.87,12.54,Barco,Motor,N/C,13.692259239401292,Alcanzando,Barco
+133,13,1402.58,795.54,Cruce_br,12.2,5.46,Contacto,Velero,Si,2.965778118076343,Cruce_br,Contacto
+133,14,613.1,612.85,Cruce_er,12.8,5.98,Barco,Velero,N/C,0.0421595439977672,Cruce_er,Barco
+133,15,1975.72,1229.37,Vuelta_encontrada,14.83,9.22,Ambos,Velero,N/C,1.9059770419328592,Vuelta_encontrada,Ambos
+133,16,2674.62,1161.07,Cruce_br,10.6,32.75,Contacto,Motor,Si,1.9901152687025765,Cruce_br,Contacto
+133,17,6144.95,770.01,Cruce_er,11.67,5.35,Barco,Pesquero,N/C,13.036222238109977,Cruce_er,Barco
+133,18,1372.31,441.38,Alcanzado,1.0,4.35,Contacto,Velero,Si,11.475072167655265,Alcanzado,Contacto
+133,19,1297.03,709.23,Cruce_er,16.5,0.29,Barco,Motor,N/C,1.9563268654041563,Cruce_er,Barco
+133,20,1114.27,249.82,Cruce_br_br,13.83,19.05,Niguno,Motor,N/C,0.988707304260198,Cruce_br_br,Niguno

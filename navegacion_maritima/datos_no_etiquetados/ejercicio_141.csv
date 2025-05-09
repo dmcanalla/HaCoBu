@@ -1,0 +1,20 @@
+Ejercicio,Situacion_n,DistanciaInicioRiiesgo,DCPA_yds,Situacion,VelNudos,VelNudosContacto,Responsables,Contacto,AccionContacto,TCPA,Situacion_evaluacion,Responsable_evaluacion
+141,1,4862.72,1476.6,Alcanzado,19.31,21.63,Contacto,Motor,No,47.6646580975076,Alcanzado si no accion cto,Contacto que no toma accion
+141,2,719.42,83.7,Alcanzando,24.79,13.03,Barco,Pesquero,N/C,1.8002668343235086,Alcanzando,Barco
+141,3,3444.78,1951.96,Alcanzado,1.0,7.72,Contacto,Velero,No,12.519107250009052,Alcanzado si no accion cto,Contacto que no toma accion
+141,4,5360.08,854.8,Alcanzado,1.0,0.17,Contacto,Pesquero,Si,188.44530841137947,Alcanzado,Contacto
+141,5,9654.92,1982.26,Cruce_er_er,12.97,6.66,Niguno,Motor,N/C,14.609039174276614,Cruce_er_er,Niguno
+141,6,315.12,13.2,Cruce_br,11.92,17.17,Contacto,Motor,No,0.4769729158576923,Cruce_br si no accion cto,Contacto que no toma accion
+141,7,2505.85,1994.74,Vuelta_encontrada,16.96,7.3,Ambos,Velero,N/C,1.8528883149663469,Vuelta_encontrada,Ambos
+141,8,5909.96,86.09,Cruce_er,14.08,2.53,Barco,Pesquero,N/C,11.575389680031302,Cruce_er,Barco
+141,9,2165.01,1847.51,Alcanzando,23.89,9.69,Barco,Pesquero,N/C,2.3500448254296726,Alcanzando,Barco
+141,10,1092.63,1083.16,Cruce_er,10.17,26.47,Barco,Motor,N/C,0.1589145716644365,Cruce_er,Barco
+141,11,8636.89,935.77,Cruce_er,19.13,5.56,Barco,Velero,N/C,11.946281465468829,Cruce_er,Barco
+141,12,3464.44,1300.1,Cruce_er,12.48,1.94,Barco,Motor,N/C,7.932598730313665,Cruce_er,Barco
+141,13,3374.67,1445.29,Alcanzando,16.4,8.46,Barco,Velero,N/C,11.343645564395862,Alcanzando,Barco
+141,14,7500.47,893.78,Vuelta_encontrada,14.02,5.44,Ambos,Velero,N/C,11.348899544758108,Vuelta_encontrada,Ambos
+141,15,3079.8,872.71,Vuelta_encontrada,10.41,4.63,Ambos,Velero,N/C,5.824233017225958,Vuelta_encontrada,Ambos
+141,16,3510.88,1996.48,Alcanzando,13.74,2.14,Barco,Velero,N/C,7.376815076661843,Alcanzando,Barco
+141,17,357.81,352.73,Cruce_br_br,11.28,4.22,Niguno,Motor,N/C,0.1154109262882718,Cruce_br_br,Niguno
+141,18,1604.18,1494.78,Cruce_br,14.03,2.36,Contacto,Velero,No,1.2095964911079569,Cruce_br si no accion cto,Contacto que no toma accion
+141,19,7013.85,353.17,Alcanzando,10.31,5.25,Barco,Velero,N/C,40.90055862279612,Alcanzando,Barco
